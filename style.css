@@ -1,0 +1,53 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.note
+{
+font-size: 15px;
+color: black;
+}
+
+.div_speed
+{
+float: left;
+}
+#speed
+{
+font-size: 40px;
+margin-left: 70px;
+}
+#volume
+{
+font-size: 40px;
+margin: 50px;
+}
+.div_volume
+{
+float: right;
+}
+#image_1
+{
+    width: 300px;
+    height: 300px;
+}
+#image_2
+{
+    width: 300px;
+    height: 300px;
+}
+
+.play
+{
+font-size: 50px;
+width: 200px;
+}
+
+canvas
+{
+border: 5px  solid white; 
+margin-top: 150px;
+}
